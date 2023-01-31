@@ -1,0 +1,12 @@
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Entregas\Entregas\bin\Debug\net6.0\Entregas.deps.json
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Entregas\Entregas\bin\Debug\net6.0\Entregas.dll
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Entregas\Entregas\bin\Debug\net6.0\Entregas.pdb
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Entregas\Entregas\obj\Debug\net6.0\Entregas.csproj.AssemblyReference.cache
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Entregas\Entregas\obj\Debug\net6.0\Entregas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Entregas\Entregas\obj\Debug\net6.0\Entregas.AssemblyInfoInputs.cache
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Entregas\Entregas\obj\Debug\net6.0\Entregas.AssemblyInfo.cs
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Entregas\Entregas\obj\Debug\net6.0\Entregas.csproj.CoreCompileInputs.cache
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Entregas\Entregas\obj\Debug\net6.0\Entregas.dll
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Entregas\Entregas\obj\Debug\net6.0\refint\Entregas.dll
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Entregas\Entregas\obj\Debug\net6.0\Entregas.pdb
+C:\Users\ytalo\OneDrive\Documents\repos\Teste Unitário\Entregas\Entregas\obj\Debug\net6.0\ref\Entregas.dll
